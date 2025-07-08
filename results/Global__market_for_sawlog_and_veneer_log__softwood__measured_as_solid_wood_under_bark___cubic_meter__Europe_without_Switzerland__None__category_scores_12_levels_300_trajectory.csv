@@ -1,0 +1,61 @@
+names,mu,mu_star,sigma,mu_star_conf,trajectories,reference_product,tier,number of variables,runtime,number of runs,score,mu_star_relative,mu_star_conf_relative,count,
+Forestry and logging,,2.285188756,,0.171039476,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,1.939701325,0.145180786,236,
+Mining of metal ores,,0.026219407,,0.002373994,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.022255412,0.00201508,42,
+Manufacture of chemicals and chemical products,,0.139204614,,0.012961341,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.118158894,0.011001774,37,
+"Electricity, gas, steam and air conditioning supply",,0.467831927,,0.038544071,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.397102518,0.032716766,33,
+Mining of coal and lignite,,0.05728137,,0.008313251,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.048621257,0.007056408,29,
+Manufacture of fabricated metal products,,0.000316979,,2.55E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.000269056,2.17E-05,29,
+"Waste collection, treatment, and disposal activities",,0.128502972,,0.008466218,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.109075184,0.007186249,26,
+Civil engineering,,0.210699247,,0.015158489,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.178844573,0.012866745,24,
+"Crop and animal production, hunting and related service activities",,0.15815703,,0.017555955,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.134245979,0.014901749,14,
+Manufacture of basic metals,,0.242055741,,0.019815474,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.20546042,0.016819662,8,
+Manufacture of other non-metallic mineral products,,0.024886542,,0.002211848,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.021124057,0.001877448,7,
+Land transport and transport via pipelines,,6.688587164,,0.555009891,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,5.677369694,0.471100437,6,
+Manufacture of coke and refined petroleum products,,0.466904836,,0.060874958,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.39631559,0.051671546,5,
+Construction of buildings,,0.002548339,,0.00025829,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.002163067,0.00021924,5,
+Manufacture of machinery and equipment,,0.003872398,,0.000302257,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.003286947,0.00025656,4,
+"Water collection, treatment, and supply",,0.034176114,,0.003870295,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.02900918,0.003285163,4,
+Manufacture of food products,,0.381729139,,0.02905543,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.324017224,0.02466267,4,
+Other mining and quarrying,,0.024473881,,0.002208628,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.020773785,0.001874715,3,
+"Manufacture of motor vehicles, trailers, and semi-trailers",0.000580427,0.000643432,0.000597598,5.96E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.000546154,5.06E-05,3,
+Manufacture of rubber and plastic products,,0.008204692,,0.000855724,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.006964261,0.000726351,3,
+Wholesale and retail trade and repair of motor vehicles and motorcycles,,0.024903249,,0.001627809,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.021138239,0.001381708,3,
+"Wholesale trade, except of motor vehicles and motorcycles",,1.047552481,,0.09697736,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.889177724,0.082315788,3,
+Specialized construction activities,,0.000168752,,2.09E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.000143239,1.77E-05,2,
+Sewerage,,0.00140091,,8.85E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.001189113,7.51E-05,1,
+Manufacture of other transport equipment,-0.000299467,0.000301169,0.000177509,1.85E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.000255637,1.57E-05,1,
+Water transport,2.12E-05,9.87E-05,0.000125379,8.97E-06,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,8.38E-05,7.61E-06,1,
+Manufacture of wood and products of wood and cork,,0.000574799,,5.29E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.000487898,4.49E-05,1,
+Manufacture of paper and paper products,,8.20E-05,,8.07E-06,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,6.96E-05,6.85E-06,1,
+Extraction of crude petroleum and natural gas,,0.000480753,,5.21E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.00040807,4.43E-05,1,
+Repair and installation of machinery and equipment,0.000896273,0.000896962,0.000515861,5.16E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,0.000761354,4.38E-05,1,
+Manufacture of electrical equipment,8.63E-06,0.000105975,0.000158805,1.46E-05,300,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,4,538,3013.831441,9600,117.8113726,9.00E-05,1.24E-05,1,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"Electricity, gas, steam and air conditioning supply",,7.99146757,,0.769146658,300,first,0,188,2089.515743,7200,117.8113726,6.78327346,0.652862827,76,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of chemicals and chemical products,,0.901505714,,0.083265197,300,first,0,188,2089.515743,7200,117.8113726,0.765211111,0.070676705,20,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+"Wholesale trade, except of motor vehicles and motorcycles",,6.581284058,,0.65475041,300,first,0,188,2089.515743,7200,117.8113726,5.586289263,0.555761634,15,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of coke and refined petroleum products,,2.376830682,,0.303009798,300,first,0,188,2089.515743,7200,117.8113726,2.01748832,0.257199107,11,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Forestry and logging,,87.88622835,,3.16602501,300,first,0,188,2089.515743,7200,117.8113726,74.59910398,2.6873679,11,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of rubber and plastic products,,0.061496595,,0.006601323,300,first,0,188,2089.515743,7200,117.8113726,0.052199201,0.005603299,8,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of basic metals,,1.717705733,,0.148437592,300,first,0,188,2089.515743,7200,117.8113726,1.458013513,0.125995979,6,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Civil engineering,,1.550054393,,0.148898878,300,first,0,188,2089.515743,7200,117.8113726,1.315708627,0.126387525,6,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Land transport and transport via pipelines,,54.68549194,,5.380471115,300,first,0,188,2089.515743,7200,117.8113726,46.41783788,4.567021838,6,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Mining of coal and lignite,,0.124775977,,0.012574557,300,first,0,188,2089.515743,7200,117.8113726,0.105911657,0.010673466,5,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of food products,,1.35645901,,0.104163653,300,first,0,188,2089.515743,7200,117.8113726,1.151382061,0.088415618,4,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+"Crop and animal production, hunting and related service activities",,0.453743232,,0.050996704,300,first,0,188,2089.515743,7200,117.8113726,0.38514383,0.043286741,4,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of machinery and equipment,,0.019159168,,0.001460007,300,first,0,188,2089.515743,7200,117.8113726,0.016262579,0.001239275,2,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+"Waste collection, treatment, and disposal activities",,0.482904402,,0.057185639,300,first,0,188,2089.515743,7200,117.8113726,0.409896253,0.048539999,2,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Mining of metal ores,,0.159316375,,0.016952023,300,first,0,188,2089.515743,7200,117.8113726,0.135230048,0.014389122,2,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of other non-metallic mineral products,,0.189844606,,0.018479192,300,first,0,188,2089.515743,7200,117.8113726,0.161142852,0.015685406,2,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of electrical equipment,-0.000884631,0.000911836,0.000788629,9.20E-05,300,first,0,188,2089.515743,7200,117.8113726,0.00077398,7.81E-05,2,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Other mining and quarrying,,0.151740406,,0.015479366,300,first,0,188,2089.515743,7200,117.8113726,0.128799455,0.01313911,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Manufacture of other transport equipment,-0.003374939,0.003391508,0.001729584,0.000161343,300,first,0,188,2089.515743,7200,117.8113726,0.002878761,0.00013695,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Wholesale and retail trade and repair of motor vehicles and motorcycles,,0.179168409,,0.015660174,300,first,0,188,2089.515743,7200,117.8113726,0.152080741,0.013292582,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Sewerage,0.003539663,0.003539663,0.001059645,0.000119375,300,first,0,188,2089.515743,7200,117.8113726,0.003004517,0.000101327,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Unknown,,0.02220032,,0.005733254,300,first,0,188,2089.515743,7200,117.8113726,0.018843953,0.004866469,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_
+Construction of buildings,,0.004685986,,0.000443713,300,first,0,188,2089.515743,7200,117.8113726,0.003977532,0.00037663,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_

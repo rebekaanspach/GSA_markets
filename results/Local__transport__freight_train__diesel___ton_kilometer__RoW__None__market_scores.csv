@@ -1,0 +1,16 @@
+names,mu_star,mu_star_conf,reference_product,score,mu_star_local_relative,mu_star_local_relative_conf
+"'market for coke' (megajoule, GLO, None)",3.776378632655286e-05,1.768349616953339e-05,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.06558131580677123,0.030709498693635335
+"'market for diesel' (kilogram, PE, None)",9.867143323078614e-06,3.197014673603141e-07,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.01713547038916744,0.0005551997014690975
+"'market for diesel, low-sulfur' (kilogram, RoW, None)",0.0003212248406790505,7.066084348830868e-05,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.5578452207992768,0.12271097638112839
+"'market for diesel, low-sulfur' (kilogram, IN, None)",7.758896430842612e-05,4.467017943340571e-10,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.13474248390854277,7.757509057049921e-07
+"'market for pipeline, petroleum' (kilometer, GLO, None)",2.388572792669935e-06,4.271600888306186e-07,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.004148041334864936,0.0007418144050336383
+"'market for petroleum coke' (kilogram, GLO, None)",7.212524059621583e-07,2.4861472821541604e-07,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.0012525407649216398,0.00043174910652022275
+"'market for road' (meter-year, GLO, None)",9.87359027133157e-05,9.655481968513217e-08,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.17146666283183762,0.00016767895220252716
+"'market for railway track' (meter-year, GLO, None)",0.009368771764769645,1.1308243004988001e-05,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,16.26998878009499,0.01963811174327035
+"'market group for diesel' (kilogram, RER, None)",1.2052853989757278e-05,7.966527816492068e-10,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.020931217464266585,1.3834825038437415e-06
+"'market for pitch' (kilogram, RoW, None)",8.066519352711855e-06,2.609288436851301e-07,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.014008472258505052,0.0004531340356827027
+"'market for heavy fuel oil' (kilogram, RoW, None)",0.00025903326530266475,5.663560118514874e-05,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.4498421378983553,0.09835447153290333
+"'market group for diesel' (kilogram, GLO, None)",9.238288547625678e-05,4.601401812413911e-05,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.1604338912197265,0.07990882662144116
+"'market for diesel' (kilogram, BR, None)",0.000511126803926782,2.667316786004111e-09,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.8876326133128963,4.632113501199476e-06
+"'market for diesel, low-sulfur' (kilogram, ZA, None)",4.560421502167525e-05,1.2647458580415201e-05,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,0.0791971546919138,0.021963819203480287
+"'market for diesel' (kilogram, RoW, None)",0.005515947562740907,0.0019230378249132957,_transport__freight_train__diesel___ton_kilometer__RoW__None_,0.057583148282385886,9.57910035708864,3.3395843788929023

@@ -1,0 +1,47 @@
+names,mu,mu_star,sigma,mu_star_conf
+"'market for chemical, organic' (kilogram, GLO, None)",,11.655344633041281,,7.817511057523426
+"'transport, freight, lorry, all sizes, EURO5 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,3.427625071367139,,3.598146201325958
+"'market for concrete, 20MPa' (cubic meter, RoW, None)",-4.816146968415692,4.816146968415692,4.070193620530858,2.4060316471370005
+"'market for transport, freight, lorry, unspecified' (ton kilometer, BR, None)",,2.6860316759149057,,1.616881817246262
+"'market for synthetic rubber' (kilogram, GLO, None)",-0.21286376462459203,0.21286376462459203,0.04462888626154665,0.02820158981787201
+"'market group for transport, freight, light commercial vehicle' (ton kilometer, RER, None)",-0.12430684065381996,0.12430684065381996,0.07392916147952025,0.04559346609085069
+"'market for styrene' (kilogram, GLO, None)",-0.0009725736947800101,0.0009725736947800101,0.000844078441709316,0.0005217519067527578
+"'market for alkylbenzene sulfonate, linear, petrochemical' (kilogram, GLO, None)",0.007925404971565797,0.007925404971565797,0.012341135956671937,0.007089628287542156
+"'concrete, all types to generic market for concrete, medium strength' (cubic meter, RoW, None)",,0.0033680548799750907,,0.0021485751461660773
+"'transport, freight, lorry, all sizes, EURO4 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,1.6655540039593089,,1.2925927706106892
+"'market for ethylene glycol' (kilogram, GLO, None)",0.038435107988712504,0.038435107988712504,0.01795679446775012,0.011525992772303905
+"'market for lime, hydrated, loose weight' (kilogram, RoW, None)",0.024252066769265924,0.024252066769265924,0.004863575482627918,0.002936608131532052
+"'market for ammonia, anhydrous, liquid' (kilogram, CN, None)",-0.09844078531566965,0.09844078531566965,0.019923521154138358,0.011756649705597663
+"'transport, freight, lorry, all sizes, EURO3 to generic market for transport, freight, lorry, unspecified' (ton kilometer, BR, None)",,0.12516286100717763,,0.09688115653100643
+"'market for carbon monoxide' (kilogram, RoW, None)",0.012389417982828378,0.012389417982828378,0.013319724478709648,0.00781651137773366
+"'market for concrete, 25MPa' (cubic meter, RoW, None)",,13.171237786663658,,9.444923569166574
+"'transport, freight, lorry, all sizes, EURO5 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,8.054494510910006,,5.72344766659992
+"'transport, freight, lorry, all sizes, EURO3 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,5.7323650542914235,,3.180205953918119
+"'market for bitumen adhesive compound, hot' (kilogram, GLO, None)",-0.09764965683070699,0.09764965683070699,0.015702596192483362,0.009510610101648845
+"'transport, freight, lorry, all sizes, EURO3 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,0.6967575765063186,,0.5588460022063253
+"'market for concrete, 35MPa' (cubic meter, RoW, None)",,5.7906604577046865,,4.544750403898068
+"'market for clay brick' (kilogram, GLO, None)",0.027715777550653797,0.027715777550653797,0.00784178186935872,0.004061124590122579
+"'market for clinker' (kilogram, RoW, None)",0.3429241034673055,0.3429241034673055,0.29407889701091955,0.167193223108087
+"'market for acetic acid, without water, in 98% solution state' (kilogram, GLO, None)",,0.04576761854282552,,0.02240941447551683
+"'transport, freight, lorry, all sizes, EURO2 to generic market for transport, freight, lorry, unspecified' (ton kilometer, BR, None)",,0.771376855598558,,0.7465934792809444
+"'market for transport, freight, lorry, unspecified' (ton kilometer, ZA, None)",,0.025144152455790447,,0.01408980062180916
+"'market for transport, freight train' (ton kilometer, RoW, None)",,2.1578166512236363,,0.5650812238049834
+"'transport, freight, lorry, all sizes, EURO6 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,9.334455612905746,,6.712029647872896
+"'transport, freight, lorry, all sizes, unregulated to generic market for transport, freight, lorry, unspecified' (ton kilometer, BR, None)",,0.7305282659651127,,0.5986400393726681
+"'market for oxygen, liquid' (kilogram, RoW, None)",-0.609472211883417,0.609472211883417,0.26114831763271984,0.15391996182263656
+"'market for methanol' (kilogram, GLO, None)",0.2233584103028292,0.2233584103028292,0.20844949612816727,0.14022450104217546
+"'market for transport, freight train' (ton kilometer, CN, None)",,4.410857874524661,,1.4199449131252928
+"'market for concrete, 30MPa' (cubic meter, RoW, None)",,12.714615348579109,,6.171593853318588
+"'market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,4.0026448836684825,,2.024011247638285
+"'market group for concrete, medium strength' (cubic meter, GLO, None)",,0.037013857159202246,,0.010893382290582964
+"'market group for transport, freight, lorry, unspecified' (ton kilometer, GLO, None)",,0.41965776388264536,,0.18093579783390878
+"'transport, freight, lorry, all sizes, EURO5 to generic market for transport, freight, lorry, unspecified' (ton kilometer, BR, None)",,1.5783601542712062,,1.7978946882769415
+"'market for transport, freight train' (ton kilometer, IN, None)",0.2416077001789702,0.2416077001789702,0.04879986384416159,0.026294315610748464
+"'market group for transport, freight train' (ton kilometer, GLO, None)",,0.20643823483062249,,0.18257847360827287
+"'market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,15.598356881243925,,4.307803429422204
+"'market for polyethylene, high density, granulate' (kilogram, GLO, None)",,0.20695175858072049,,0.0630917095404214
+"'market for transport, freight train' (ton kilometer, Europe without Switzerland, None)",0.1456617612322276,0.1456617612322276,0.0381427296965102,0.02161243038148584
+"'market for ammonia, anhydrous, liquid' (kilogram, RoW, None)",0.2790093624796441,0.2790093624796441,0.06219272568731425,0.034147991050733316
+"'concrete, all types to generic market for concrete, normal strength' (cubic meter, RoW, None)",,65.14670488733708,,20.167692755428252
+"'market for explosive, tovex' (kilogram, GLO, None)",-0.12967243513287768,0.12967243513287768,0.04003310342130225,0.02297342342176128
+"'transport, freight, lorry, all sizes, EURO4 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,15.274402927916517,,8.390724888401493

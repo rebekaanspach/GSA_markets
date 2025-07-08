@@ -1,0 +1,8 @@
+names,mu_star,mu_star_conf,reference_product,score,mu_star_local_relative,mu_star_local_relative_conf
+"'market for land tenure, arable land, measured as carbon net primary productivity, annual crop' (kilogram, AR, None)",0.0060076210250270545,0.0014810220894675274,_soybean_production___kilogram__BR_MA__None_,3.0666023442787678,0.19590479464137966,0.048295211546766366
+"'market for soybean' (kilogram, RoW, None)",0.023523601508368075,0.008059340397833594,_soybean_production___kilogram__BR_MA__None_,3.0666023442787678,0.7670900517067392,0.26281009055085247
+"'market for land tenure, arable land, measured as carbon net primary productivity, annual crop' (kilogram, BR-MA, None)",0.917716973490195,0.3245161109829527,_soybean_production___kilogram__BR_MA__None_,3.0666023442787678,29.926181175800032,10.58226905710122
+"'market for drying of maize grain' (litre, GLO, None)",0.00620615671702125,0.0011357619677510296,_soybean_production___kilogram__BR_MA__None_,3.0666023442787678,0.20237892039050376,0.03703649316873358
+"'market for soybean' (kilogram, BR, None)",0.0023010624141936334,0.001150278033291,_soybean_production___kilogram__BR_MA__None_,3.0666023442787678,0.07503621780263195,0.03750985306057128
+"'market for land tenure, arable land, measured as carbon net primary productivity, annual crop' (kilogram, BR-MT, None)",0.00028475808968888574,0.0001254286051780155,_soybean_production___kilogram__BR_MA__None_,3.0666023442787678,0.009285784647629552,0.00409014900194094
+"'market for soybean seed, for sowing' (kilogram, GLO, None)",0.006083454052678405,8.430089008273378e-06,_soybean_production___kilogram__BR_MA__None_,3.0666023442787678,0.1983776626280891,0.0002748999727337013

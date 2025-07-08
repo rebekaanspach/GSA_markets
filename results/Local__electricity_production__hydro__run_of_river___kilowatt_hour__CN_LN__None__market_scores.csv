@@ -1,0 +1,19 @@
+names,mu_star,score,mu_star_local_relative
+"'market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",4.43671856722545e-05,0.004677815652748321,0.9484594726640797
+"'market for heat, district or industrial, other than natural gas' (megajoule, RoW, None)",2.976219685220773e-06,0.004677815652748321,0.06362413370163866
+"'market for steel, unalloyed' (kilogram, GLO, None)",0.0,0.004677815652748321,0.0
+"'market for hydropower plant, run-of-river' (unit, GLO, None)",0.0,0.004677815652748321,0.0
+"'market group for electricity, medium voltage' (kilowatt hour, CN, None)",0.0,0.004677815652748321,0.0
+"'market for steel, low-alloyed' (kilogram, GLO, None)",0.0005870128745468737,0.004677815652748321,12.548867209035707
+"'market for coke' (megajoule, GLO, None)",0.0,0.004677815652748321,0.0
+"'market for reinforcing steel' (kilogram, GLO, None)",0.0,0.004677815652748321,0.0
+"'market for clinker' (kilogram, RoW, None)",0.00015179828678027626,0.004677815652748321,3.245067742058014
+"'market for ferronickel' (kilogram, GLO, None)",0.0,0.004677815652748321,0.0
+"'market for steel, low-alloyed, hot rolled' (kilogram, GLO, None)",0.0,0.004677815652748321,0.0
+"'market for waste reinforced concrete' (kilogram, RoW, None)",0.0,0.004677815652748321,0.0
+"'market group for electricity, medium voltage' (kilowatt hour, CN-SGCC, None)",7.986760202325694e-05,0.004677815652748321,1.7073695919661336
+"'market for pig iron' (kilogram, RoW, None)",0.0003048388982408068,0.004677815652748321,6.516693278874877
+"'market for hard coal' (kilogram, CN, None)",7.409835673477289e-05,0.004677815652748321,1.584037555888686
+"'market group for electricity, medium voltage' (kilowatt hour, RAS, None)",7.311755917179567e-05,0.004677815652748321,1.5630705568492738
+"'market for steel, chromium steel 18/8, hot rolled' (kilogram, GLO, None)",0.0,0.004677815652748321,0.0
+"'market for steel, chromium steel 18/8' (kilogram, GLO, None)",0.0,0.004677815652748321,0.0

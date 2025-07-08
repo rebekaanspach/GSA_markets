@@ -1,0 +1,24 @@
+names,mu,mu_star,sigma,mu_star_conf,trajectories,reference_product,tier,number of variables,runtime,number of runs,score,mu_star_relative,mu_star_conf_relative,count
+"Electricity, gas, steam and air conditioning supply",,1.47E-06,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.25E-06,0,76
+Manufacture of basic metals,,1.43E-07,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.22E-07,0,20
+Manufacture of other transport equipment,-8.30E-10,8.30E-10,,2.04E-25,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,7.05E-10,1.73E-25,15
+Land transport and transport via pipelines,,1.54E-05,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.30E-05,0,11
+"Waste collection, treatment, and disposal activities",,1.31E-08,,6.52E-24,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.11E-08,5.53E-24,11
+"Crop and animal production, hunting and related service activities",,5.06E-08,,2.61E-23,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,4.30E-08,2.21E-23,8
+Manufacture of food products,,1.40E-07,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.19E-07,0,6
+Construction of buildings,,5.53E-10,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,4.69E-10,0,6
+Manufacture of coke and refined petroleum products,,1.59E-07,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.35E-07,0,6
+Manufacture of rubber and plastic products,,4.48E-09,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,3.80E-09,0,5
+Wholesale and retail trade and repair of motor vehicles and motorcycles,,2.64E-08,,1.30E-23,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,2.24E-08,1.11E-23,4
+Manufacture of chemicals and chemical products,,3.36E-07,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,2.85E-07,0,4
+Manufacture of machinery and equipment,,4.23E-09,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,3.59E-09,0,2
+Manufacture of other non-metallic mineral products,,1.89E-08,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.61E-08,0,2
+Mining of coal and lignite,,3.87E-08,,1.30E-23,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,3.29E-08,1.11E-23,2
+Mining of metal ores,,3.82E-08,,1.30E-23,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,3.25E-08,1.11E-23,2
+Sewerage,8.11E-10,8.11E-10,,4.07E-25,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,6.89E-10,3.46E-25,2
+Unknown,,2.76E-09,,1.63E-24,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,2.34E-09,1.38E-24,1
+Manufacture of electrical equipment,-2.22E-10,2.22E-10,,5.09E-26,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.89E-10,4.32E-26,1
+Forestry and logging,,2.10E-05,,2.00E-20,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.78E-05,1.70E-20,1
+"Wholesale trade, except of motor vehicles and motorcycles",,1.22E-06,,4.17E-22,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.04E-06,3.54E-22,1
+Civil engineering,,1.32E-07,,0,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,1.12E-07,0,1
+Other mining and quarrying,,4.15E-08,,2.61E-23,1,_market_for_sawnwood__board__softwood__raw__dried__u_20_____cubic_meter__CH__None_,0,188,8.265437603,24,117.8113726,3.52E-08,2.21E-23,1

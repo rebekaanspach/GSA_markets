@@ -1,0 +1,10 @@
+names,mu,mu_star,sigma,mu_star_conf
+"'market for steel, unalloyed' (kilogram, GLO, None)",0.0,0.0,0.0,0.0
+"'market for steel, chromium steel 18/8, hot rolled' (kilogram, GLO, None)",0.0,0.0,0.0,0.0
+"'market for steel, chromium steel 18/8' (kilogram, GLO, None)",0.0,0.0,0.0,0.0
+"'market for steel, low-alloyed' (kilogram, GLO, None)",,0.0,,0.0
+"'market for steel, low-alloyed, hot rolled' (kilogram, GLO, None)",0.0,0.0,0.0,0.0
+"'market for ferronickel' (kilogram, GLO, None)",0.0,0.0,0.0,0.0
+"'market for pig iron' (kilogram, RoW, None)",,0.0,,0.0
+"'market for hydropower plant, run-of-river' (unit, GLO, None)",0.0,0.0,0.0,0.0
+"'market for reinforcing steel' (kilogram, GLO, None)",,0.0,,0.0

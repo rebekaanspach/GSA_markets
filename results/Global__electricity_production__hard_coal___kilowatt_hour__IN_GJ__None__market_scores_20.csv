@@ -1,0 +1,6 @@
+names,mu,mu_star,sigma,mu_star_conf,trajectories,reference_product,number of variables,runtime,number of runs,score,mu_star_relative,mu_star_conf_relative
+other,,0.025395093238731778,,0.008916889653047787,10,_electricity_production__hard_coal___kilowatt_hour__IN_GJ__None_,44,15.142858028411865,60,1.4020404091474876,1.8112953858564815,0.6359937698564417
+"'market for hard coal' (kilogram, ID, None)",,0.042636137037688614,,0.04465112166089655,10,_electricity_production__hard_coal___kilowatt_hour__IN_GJ__None_,44,15.142858028411865,60,1.4020404091474876,3.0410062905115245,3.184724303919793
+"'market for hard coal' (kilogram, CN, None)",,0.000787977299565018,,0.0010897363159471974,10,_electricity_production__hard_coal___kilowatt_hour__IN_GJ__None_,44,15.142858028411865,60,1.4020404091474876,0.056202181793329954,0.07772502909597398
+"'market for hard coal' (kilogram, RNA, None)",,0.18294501157829882,,0.3249149071669693,10,_electricity_production__hard_coal___kilowatt_hour__IN_GJ__None_,44,15.142858028411865,60,1.4020404091474876,13.048483509083647,23.174432423423102
+"'market for hard coal' (kilogram, IN, None)",,0.3062109493634751,,0.2883897349910206,10,_electricity_production__hard_coal___kilowatt_hour__IN_GJ__None_,44,15.142858028411865,60,1.4020404091474876,21.8403797326831,20.569288382092804

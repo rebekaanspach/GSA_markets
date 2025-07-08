@@ -1,0 +1,10 @@
+names,mu_star,mu_star_conf,reference_product,score,mu_star_local_relative,mu_star_local_relative_conf
+"'market for coke' (megajoule, GLO, None)",0.00690982496251813,0.0038999371589337334,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,0.015058596496124187,0.008499141491309512
+"'market for diesel, low-sulfur' (kilogram, RoW, None)",0.043328527445844145,0.005919569069952785,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,0.09442595364100692,0.012900529686192068
+"'market for diesel' (kilogram, PE, None)",0.006888973676690569,9.38519909438628e-09,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,0.015013155243790616,2.0453184699290758e-08
+"'market for diesel' (kilogram, IN, None)",0.029426578418770076,3.790159126136666e-08,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,0.06412940603756315,8.259901986836322e-08
+"'market group for diesel' (kilogram, RER, None)",0.39574878642324335,1.685611081994333e-05,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,0.8624561867927079,3.673455879249613e-05
+"'market for heavy fuel oil' (kilogram, RoW, None)",0.1406224798091781,0.022247473988262035,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,0.3064588746049915,0.048483968214032405
+"'market group for diesel' (kilogram, GLO, None)",0.008605430264281821,0.0027727158842253447,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,0.018753832800148196,0.006042585727631462
+"'market for diesel' (kilogram, ZA, None)",0.008686024142189197,3.433928703552051e-07,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,0.018929471212705433,7.483568255888873e-07
+"'market for diesel' (kilogram, RoW, None)",6.6539473773434565,1.3198992243994372,_furrow_covering__for_sugarcane___hectare__RoW__None_,45.886248192496524,14.500961920943306,2.876459236463075

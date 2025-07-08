@@ -1,0 +1,40 @@
+names,mu,mu_star,sigma,mu_star_conf
+"'transport, freight, lorry, all sizes, EURO5 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,0.14566078666028978,,0.09147355993198437
+"'market for transport, freight train' (ton kilometer, RoW, None)",,0.07811029131410416,,0.026202007967148992
+"'market for diesel' (kilogram, IN, None)",-0.010046287809375266,0.01011245059557755,0.014589087024516268,0.007943948002341331
+"'market for petrol, unleaded' (kilogram, RER, None)",-0.007391746907007857,0.04714663904959302,0.05652053603946881,0.016507108713926598
+"'market for transport, freight train' (ton kilometer, CN, None)",,0.10695967720738545,,0.053776853678410855
+"'market for transport, freight, lorry, unspecified' (ton kilometer, BR, None)",,0.005702274647549821,,0.002728191895923671
+"'market group for diesel' (kilogram, GLO, None)",,0.06718719101149251,,0.04700318352405669
+"'market for petrol, unleaded' (kilogram, BR, None)",-0.0069128121550266815,0.0069128121550266815,0.007286423559699402,0.004599879174253404
+"'market for petrol, unleaded' (kilogram, ZA, None)",,0.02845100168058252,,0.015220090629470811
+"'transport, freight, lorry, all sizes, EURO4 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,10.916860376100736,,12.70632245701501
+"'market for heavy fuel oil' (kilogram, RoW, None)",,0.15804271507537315,,0.04447067230656463
+"'market for petrol, unleaded' (kilogram, IN, None)",-0.0007807290305752446,0.0007841326320619402,0.0009993223347556247,0.000507728261533109
+"'market for sawlog and veneer log, softwood, measured as solid wood under bark' (cubic meter, CH, None)",-63.81915440999563,63.81915440999563,25.389955488156122,15.119981695323284
+"'market for diesel, low-sulfur' (kilogram, RoW, None)",,0.09040464794168994,,0.03783425560412451
+"'market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,28.922293093932478,,13.572745363650995
+"'transport, freight, lorry, all sizes, EURO6 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,15.471361496709202,,12.399461059531466
+"'market for sawlog and veneer log, softwood, measured as solid wood under bark' (cubic meter, Europe without Switzerland, None)",,1.7509330449680107,,0.9735711270511436
+"'transport, freight, lorry, all sizes, EURO3 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,0.33948815487969713,,0.40483202695012926
+"'market group for transport, freight, light commercial vehicle' (ton kilometer, GLO, None)",,0.015015649870498925,,0.004427708260779114
+"'market for kerosene' (kilogram, RoW, None)",,0.008156735323954667,,0.00420175288853366
+"'market for transport, freight train' (ton kilometer, Europe without Switzerland, None)",0.03097094492824013,0.03097094492824013,0.02196893586020478,0.011772252005269523
+"'market for petrol, unleaded' (kilogram, RoW, None)",,0.29933102927632527,,0.1930197384184208
+"'market for petrol, two-stroke blend' (kilogram, GLO, None)",,0.8198086987606026,,0.41308346698130294
+"'transport, freight, lorry, all sizes, EURO3 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,7.449176901058583,,6.113640500008138
+"'market group for diesel' (kilogram, RER, None)",0.014745338154052944,0.047836599457239615,0.07416816717832421,0.03905646352556128
+"'market for diesel, low-sulfur' (kilogram, CH, None)",1.291369335585581,1.7382386699742238,3.3176757396389793,1.8992664713091567
+"'market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,1.0271323462092157,,0.699868655650827
+"'transport, freight, lorry, all sizes, EURO4 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",,0.6471704083791504,,0.44688895823637537
+"'market for diesel' (kilogram, RoW, None)",,0.06762702940874395,,0.02261071119444194
+"'market for pitch' (kilogram, RoW, None)",0.08312867081317243,0.08312867081317243,0.025812359779048697,0.016297693559747063
+"'transport, freight, lorry, all sizes, EURO5 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",,14.873201945313687,,12.453519700889041
+"'market for petroleum' (kilogram, RNA, None)",,0.11140000718322113,,0.05396243522160605
+"'market for petroleum' (kilogram, CH, None)",,3.881465215488937,,3.5204758824170868
+"'market group for transport, freight, lorry, unspecified' (ton kilometer, GLO, None)",,0.4135569226851364,,0.18698109971102736
+"'market for petroleum' (kilogram, RoW, None)",,0.24421152981278915,,0.1380879280006227
+"'market for coke' (megajoule, GLO, None)",,0.09334651269466523,,0.03617337374681844
+"'market for petroleum' (kilogram, Europe without Switzerland, None)",,2.2238941243096524,,1.3273458856627507
+"'market group for transport, freight train' (ton kilometer, GLO, None)",,0.04408047759117739,,0.02886373215012895
+"'market group for diesel, low-sulfur' (kilogram, RER, None)",-0.3840606043520653,1.668470161195991,2.6365026378720096,1.156073334498002

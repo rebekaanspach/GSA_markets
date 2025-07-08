@@ -1,0 +1,27 @@
+names,mu,mu_star,sigma,mu_star_conf,trajectories,reference_product,tier,number of variables,runtime,number of runs,score,mu_star_relative,mu_star_conf_relative,count
+Manufacture of basic metals,,0.059486968,,0.005881889,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,2.072494629,0.204921912,163
+Land transport and transport via pipelines,,0.144342368,,0.014592827,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,5.028812069,0.508406408,22
+"Crop and animal production, hunting and related service activities",,0.142999887,,0.02239257,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,4.982040738,0.780145342,19
+"Electricity, gas, steam and air conditioning supply",,0.740083215,,0.059216136,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,25.78410937,2.06305898,18
+Civil engineering,,0.011925849,,0.001026418,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.415490286,0.035759853,17
+Mining of coal and lignite,,0.013346248,,0.001882469,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.464976241,0.065584217,8
+Manufacture of chemicals and chemical products,,0.047619573,,0.004103649,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,1.659040851,0.142968952,8
+"Manufacture of motor vehicles, trailers, and semi-trailers",0.000317197,0.000327824,0.000256616,2.86E-05,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.01142121,0.000997414,7
+Wholesale and retail trade and repair of motor vehicles and motorcycles,,0.0008121,,6.53E-05,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.028293143,0.002274771,6
+Manufacture of other non-metallic mineral products,,0.001230617,,0.000104491,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.042874055,0.003640427,5
+"Wholesale trade, except of motor vehicles and motorcycles",,0.026183919,,0.002475527,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.912233932,0.086246058,4
+Mining of metal ores,,0.002413161,,0.00029821,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.084073265,0.010389488,4
+Construction of buildings,,0.000862549,,8.48E-05,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.030050758,0.002955041,3
+Manufacture of coke and refined petroleum products,,0.073825401,,0.006797364,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,2.57203807,0.236816598,3
+Manufacture of machinery and equipment,,0.000454801,,8.27E-05,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.015845029,0.00288091,3
+"Waste collection, treatment, and disposal activities",,0.010423554,,0.001141798,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.363151123,0.039779644,2
+Other mining and quarrying,,0.02474204,,0.002138678,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.86199964,0.07451042,2
+Unknown,,0.533518828,,0.038248046,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,18.58751495,1.332541788,2
+Manufacture of electrical equipment,-7.40E-05,7.53E-05,4.93E-05,5.00E-06,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.002624089,0.00017408,1
+Manufacture of food products,,0.413967501,,0.036340136,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,14.42240967,1.266071207,1
+Manufacture of other transport equipment,-0.000103396,0.000103442,5.60E-05,7.06E-06,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.003603864,0.000246094,1
+Extraction of crude petroleum and natural gas,,0.000751365,,8.87E-05,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.026177153,0.003089205,1
+Sewerage,2.27E-05,2.27E-05,1.75E-05,2.07E-06,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.000791222,7.22026E-05,1
+Water transport,-3.76E-05,7.15E-05,0.000100447,9.54E-06,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.002490504,0.000332294,1
+Manufacture of wood and products of wood and cork,,0.000159978,,1.95E-05,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,0.005573561,0.000677752,1
+Specialized construction activities,-5.95E-09,1.60E-08,1.20E-07,1.41E-08,300,_market_for_ascorbic_acid___kilogram__GLO__None_,0,304,2108.060184,8100,2.870307461,5.58203E-07,4.92533E-07,1

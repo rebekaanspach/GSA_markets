@@ -1,0 +1,5 @@
+scenario,method,iteration,score,names,runtime,market,process
+fu,climate change,0,10.050000000745058,pr1_1,0.16274619102478027,M0,Pr1 = 1
+fu,climate change,0,15.0,pr2_0,0.1888444423675537, M1,Pr2 = 0
+fu,climate change,0,10.0,pr1_0,0.19454455375671387,M0,Pr1 = 0
+fu,climate change,0,5.050000000745058,pr2_1,0.19203925132751465,M1,Pr2 = 1

@@ -1,0 +1,149 @@
+names,mu,mu_star,sigma,mu_star_conf
+"'market group for electricity, high voltage' (kilowatt hour, GLO, None)",,447.6871409366149,,256.2183378798605
+"'market for electricity, high voltage' (kilowatt hour, US-TRE, None)",,51.3247707437373,,40.172238845596326
+"'market for steel, chromium steel 18/8, hot rolled' (kilogram, GLO, None)",14.44413815027583,14.44413815027583,12.847093501820071,7.298544506739464
+"'market group for electricity, high voltage' (kilowatt hour, RME, None)",,13.9433077775715,,5.229175425724714
+"'market for electricity, high voltage' (kilowatt hour, VN, None)",,108.98987026816394,,74.20588651953382
+"'market for heat, district or industrial, natural gas' (megajoule, Europe without Switzerland, None)",,51.47222377612781,,58.88304785080205
+"'market for electricity, high voltage' (kilowatt hour, HK, None)",,82.5744522911231,,106.2695272416174
+"'market for natural gas, high pressure' (cubic meter, US, None)",,49.710489802630946,,29.01111741625124
+"'market for copper, cathode' (kilogram, GLO, None)",,293.54189242432466,,102.11626493815189
+"'market for aluminium, primary, ingot' (kilogram, RoW, None)",,95.36520529279515,,73.60245179452454
+"'market for electricity, high voltage' (kilowatt hour, GR, None)",,43.703363939643516,,30.008988655960046
+"'market for electricity, high voltage' (kilowatt hour, CN-CCG, None)",,204.22217189660236,,221.09053159280907
+"'market for electricity, high voltage' (kilowatt hour, ID, None)",,160.93476700761713,,126.49258381022234
+"'market for electricity, high voltage' (kilowatt hour, US-WECC, None)",,14.105479435797127,,10.60438379761001
+"'market for electricity, high voltage' (kilowatt hour, TH, None)",,25.15869028435918,,8.845775734747155
+"'market for electricity, high voltage' (kilowatt hour, MX, None)",,62.57415347464231,,36.99881374165815
+"'market group for electricity, low voltage' (kilowatt hour, CN, None)",59.59000009820138,65.10011729488633,116.27492488924814,72.33669816200825
+"'market for electricity, high voltage' (kilowatt hour, MA, None)",,42.12599826861515,,53.08683449482962
+"'market for electricity, medium voltage' (kilowatt hour, GB, None)",-77.12784298624811,77.12784298624811,101.13922821504008,54.30274636320954
+"'market for electricity, high voltage' (kilowatt hour, CN-SWG, None)",,95.15243469323035,,76.78884497023844
+"'market group for heat, district or industrial, natural gas' (megajoule, GLO, None)",,1592.0636678857477,,620.4398132650657
+"'market for electricity, high voltage' (kilowatt hour, US-SERC, None)",,100.04499254364652,,86.09570982528955
+"'market for electricity, high voltage' (kilowatt hour, EG, None)",,61.23667487174898,,70.95912376826108
+"'market group for electricity, low voltage' (kilowatt hour, RAS, None)",,18.669072220583637,,6.6379610650629415
+"'market group for electricity, medium voltage' (kilowatt hour, IN, None)",,385.8549607748382,,346.5869355758945
+"'market for electricity, high voltage' (kilowatt hour, US-RFC, None)",,16.750005626082206,,14.263535305929423
+"'market for steel, low-alloyed, hot rolled' (kilogram, GLO, None)",15.276358609648014,15.276358609648014,12.08243816348896,6.59475868036412
+"'market for electricity, high voltage' (kilowatt hour, IN-Western grid, None)",,148.1422078446137,,230.08413030257952
+"'market for electricity, high voltage' (kilowatt hour, IR, None)",,41.3405273557506,,38.464929924050814
+"'market for electricity, high voltage' (kilowatt hour, DE, None)",,284.4921448092147,,296.378938784352
+"'market for electricity, high voltage' (kilowatt hour, AE, None)",,22.030030722662012,,8.9771267980036
+"'market group for heat, district or industrial, other than natural gas' (megajoule, GLO, None)",,729.402027988452,,499.3975091625194
+"'market for electricity, medium voltage' (kilowatt hour, US-RFC, None)",-215.8777599193665,215.8777599193665,339.1277110189507,177.91053893407673
+"'market for electricity, high voltage' (kilowatt hour, CA-AB, None)",,66.13650368935578,,55.116871545503166
+"'market for electricity, high voltage' (kilowatt hour, US-MRO, None)",,16.111962872178815,,8.637942778514407
+"'market group for electricity, medium voltage' (kilowatt hour, Europe without Switzerland, None)",,530.4919122581101,,390.47352277995833
+"'market for electricity, high voltage' (kilowatt hour, BR-South-eastern/Mid-western grid, None)",,18.631532556080124,,8.811177133771467
+"'market for heat, district or industrial, other than natural gas' (megajoule, Europe without Switzerland, None)",,53.94188667323149,,47.112391124587866
+"'market for ferrosilicon' (kilogram, GLO, None)",-30.362717976322166,57.899984230045085,64.21462601596745,22.91492864447913
+"'market group for electricity, medium voltage' (kilowatt hour, RAF, None)",,188.91121543700834,,82.99334586923538
+"'market for ferrochromium, high-carbon, 68% Cr' (kilogram, GLO, None)",-535.2213870708298,535.2213870708298,319.31297092468134,191.60541542532417
+"'market group for heat, district or industrial, natural gas' (megajoule, RER, None)",-78.69103067463348,78.69103067463348,98.06435432930476,50.407102703971375
+"'market for natural gas, high pressure' (cubic meter, RoW, None)",,160.05953579245812,,98.94606576014554
+"'aluminium ingot, primary, to aluminium, wrought alloy market' (kilogram, GLO, None)",,27.43826911856213,,27.779752367475737
+"'market for steel, unalloyed' (kilogram, GLO, None)",96.55918050216515,96.55918050216515,60.88716408903571,35.55625690863315
+"'market for hot rolling, steel' (kilogram, GLO, None)",-58.56868218710988,58.56868218710988,21.540137654966472,11.964920099619775
+"'market group for electricity, high voltage' (kilowatt hour, CN, None)",-14.067421978586026,16.205505770253332,11.603053309724254,4.590782556352773
+"'market for electricity, medium voltage' (kilowatt hour, IT, None)",143.59370708981132,143.59370708981132,94.22331490696433,59.21968724304274
+"'market group for electricity, medium voltage' (kilowatt hour, RER, None)",-3303.322799599712,3303.322799599712,3057.267101233266,1794.3632796635932
+"'market group for electricity, high voltage' (kilowatt hour, RAF, None)",,54.880610159629214,,55.71773449794033
+"'market for electricity, medium voltage' (kilowatt hour, US-NPCC, None)",-229.42815961703818,249.65632051463035,526.0787047544263,300.8277630781531
+"'market for ferronickel' (kilogram, GLO, None)",11.600774065502446,212.4925214126908,343.6365347584689,157.65573882077524
+"'market for electricity, high voltage' (kilowatt hour, PK, None)",,62.85783805509037,,37.06486525635858
+"'market for aluminium, wrought alloy' (kilogram, GLO, None)",,292.9676315348046,,106.22185854608443
+"'market for electricity, high voltage' (kilowatt hour, JP, None)",,91.11237803059014,,93.7489208886862
+"'market for electricity, high voltage' (kilowatt hour, TW, None)",,22.2867125843708,,10.048864357888597
+"'market for natural gas, high pressure' (cubic meter, RU, None)",-15.630902573158528,15.630902573158528,27.778393711880188,16.792290625061618
+"'market group for electricity, medium voltage' (kilowatt hour, Canada without Quebec, None)",,430.23228408572174,,459.5380382889156
+"'market for copper, anode' (kilogram, GLO, None)",,8.607841107159947,,6.456183220822463
+"'market group for electricity, medium voltage' (kilowatt hour, RNA, None)",3836.2922165223545,3836.2922165223545,3650.522584855087,2212.680756016813
+"'market for electricity, medium voltage' (kilowatt hour, PH, None)",-71.36097993986877,71.36097993986877,116.23581892653402,69.54248766409951
+"'market group for electricity, medium voltage' (kilowatt hour, CN-SGCC, None)",,118.25510426334094,,85.41174847296634
+"'market for electricity, high voltage' (kilowatt hour, IL, None)",,55.36412865805323,,52.29756970270559
+"'market for electricity, high voltage' (kilowatt hour, RU, None)",,2207.382958593139,,2146.2351080754743
+"'market group for heat, district or industrial, other than natural gas' (megajoule, RER, None)",226.61797244548362,226.61797244548362,163.52799065313354,94.76960598977693
+"'market for electricity, high voltage' (kilowatt hour, CZ, None)",,90.75911638002577,,45.29258860146379
+"'market group for electricity, high voltage' (kilowatt hour, RNA, None)",-49.438614734490514,49.438614734490514,25.589143162847986,16.818113858280974
+"'market group for electricity, medium voltage' (kilowatt hour, BR, None)",,34.34673598077588,,29.860742092354645
+"'market for electricity, high voltage' (kilowatt hour, SA, None)",,47.33719493719582,,10.759852209649736
+"'market group for electricity, medium voltage' (kilowatt hour, US, None)",,608.081053031755,,438.03445204459535
+"'market for electricity, high voltage' (kilowatt hour, ZA, None)",,672.5620597510241,,486.90865550136186
+"'market group for electricity, high voltage' (kilowatt hour, RER, None)",-51.100485429430044,51.100485429430044,68.99843387656952,40.638342906543386
+"'market group for electricity, medium voltage' (kilowatt hour, GLO, None)",,8685.58525550519,,1857.2378204193121
+"'market for electricity, high voltage' (kilowatt hour, NL, None)",,116.61257511284516,,46.68875178869998
+"'market for electricity, high voltage' (kilowatt hour, ES, None)",,69.45849292545496,,65.46873289059563
+"'market for electricity, high voltage' (kilowatt hour, GB, None)",,79.35064951616877,,80.12000919627317
+"'market for electricity, high voltage' (kilowatt hour, CN-NECG, None)",,66.38104434547898,,37.29045913112961
+"'market for electricity, high voltage' (kilowatt hour, CL, None)",,47.584069229788106,,42.44942367238835
+"'aluminium ingot, primary, to aluminium, cast alloy market' (kilogram, GLO, None)",,181.2296538884315,,99.17203394506365
+"'market for aluminium, cast alloy' (kilogram, GLO, None)",,911.6511557358041,,267.2990853727211
+"'market group for electricity, medium voltage' (kilowatt hour, CN, None)",166.5123169554654,223.99332515956795,247.47855981663676,124.55599665732635
+"'market group for electricity, high voltage' (kilowatt hour, IN, None)",,10.097382808805014,,6.208205487225502
+"'market for electricity, high voltage' (kilowatt hour, KW, None)",,53.1236912358263,,33.264163726556
+"'market for electricity, high voltage' (kilowatt hour, KR, None)",,51.917767793392365,,25.27256326807039
+"'market for lead' (kilogram, GLO, None)",,72.02021348814905,,36.93707971180898
+"'market for natural gas, high pressure' (cubic meter, DE, None)",,197.52001199929364,,77.84642965012314
+"'market for electricity, high voltage' (kilowatt hour, PL, None)",,129.6086001386011,,70.34053322040317
+"'market for reinforcing steel' (kilogram, GLO, None)",,240.4819030832241,,115.76435510187719
+"'market for electricity, high voltage' (kilowatt hour, AU, None)",,2793.788004651993,,1717.9242366006024
+"'market for heat, district or industrial, other than natural gas' (megajoule, RoW, None)",,65.50886144179583,,33.743506767241826
+"'market for iron pellet' (kilogram, GLO, None)",56.76412225698605,56.76412225698605,60.0060760476164,40.55160759846951
+"'market for natural gas, high pressure' (cubic meter, MX, None)",,17.038129863074936,,10.42437229152768
+"'market for electricity, high voltage' (kilowatt hour, KZ, None)",,824.0373391069726,,302.8216498691933
+"'market for electricity, high voltage' (kilowatt hour, CN-NWG, None)",,61.19763761470382,,46.126306020306814
+"'market for electricity, medium voltage' (kilowatt hour, US-MRO, None)",-166.99294316115282,166.99294316115282,245.95854202149656,138.3180708387082
+"'market group for electricity, high voltage' (kilowatt hour, Europe without Switzerland, None)",,7.767840805764712,,3.0426326200514744
+"'market for natural gas, high pressure' (cubic meter, CN, None)",-3.5601036336032847,3.5601036336032847,1.3624885126663475,0.8373876430633413
+"'market for electricity, high voltage' (kilowatt hour, AR, None)",,102.47100776502906,,122.56207928970252
+"'market for electricity, medium voltage' (kilowatt hour, TW, None)",9.447150041364148,27.080576815765745,38.17736999382336,15.429701498390965
+"'market for ferromanganese, high-coal, 74.5% Mn' (kilogram, GLO, None)",48.32724215047183,48.32724215047183,31.425081154757173,18.653617103602322
+"'market for electricity, high voltage' (kilowatt hour, DZ, None)",,26.838340082763533,,17.964831679044487
+"'market group for electricity, high voltage' (kilowatt hour, US, None)",,14.468841706731293,,10.763908677128876
+"'market for steel, chromium steel 18/8' (kilogram, GLO, None)",397.12580893008817,397.12580893008817,237.9812283993811,143.0956576639292
+"'market for aluminium oxide, metallurgical' (kilogram, RoW, None)",,33.46451011279114,,12.571311649491653
+"'market for electricity, high voltage' (kilowatt hour, UZ, None)",,450.09174695748436,,206.41357977762476
+"'market group for electricity, high voltage' (kilowatt hour, RAS, None)",,30.507237171498875,,20.715035949657942
+"'market for electricity, high voltage' (kilowatt hour, MY, None)",,34.99722780941611,,13.897248416458922
+"'market for electricity, high voltage' (kilowatt hour, FR, None)",,48.20349333189243,,39.63940558860575
+"'market group for electricity, high voltage' (kilowatt hour, RLA, None)",,27.78016958356875,,28.626671324242388
+"'market for electricity, high voltage' (kilowatt hour, CN-CSG, None)",,203.99732242205872,,119.66559065460306
+"'market for electricity, high voltage' (kilowatt hour, UA, None)",,124.53678025455105,,120.76215670874059
+"'market for electricity, high voltage' (kilowatt hour, TR, None)",,77.61234538549124,,56.3174246714286
+"'market group for electricity, medium voltage' (kilowatt hour, RAS, None)",,1427.0242873595978,,1017.3776037409608
+"'market for electricity, high voltage' (kilowatt hour, CN-ECGC, None)",,46.175264714904,,61.71162954418223
+"'market group for electricity, medium voltage' (kilowatt hour, RME, None)",,63.63495287929927,,67.10051199135745
+"'market group for electricity, high voltage' (kilowatt hour, CN-SGCC, None)",,35.97721183642388,,36.15532775302073
+"'market for electricity, medium voltage' (kilowatt hour, PL, None)",201.82366687132762,201.82366687132762,218.7406455966514,129.6497878807896
+"'market for electricity, high voltage' (kilowatt hour, IN-Northern grid, None)",,60.62490712224358,,41.64172803848741
+"'market for natural gas, high pressure' (cubic meter, IT, None)",,13.265108974536089,,8.319000398072433
+"'market for electricity, medium voltage' (kilowatt hour, JP, None)",-72.73847784386271,72.73847784386271,64.01655270283304,33.750553461969965
+"'market for heat, district or industrial, natural gas' (megajoule, RoW, None)",,273.4944657839448,,139.335235318133
+"'market group for electricity, low voltage' (kilowatt hour, CN-SGCC, None)",,15.094420271916169,,10.354779441068143
+"'market for electricity, high voltage' (kilowatt hour, BR-Southern grid, None)",,22.326081328037255,,18.075698450168062
+"'market for heat, district or industrial, natural gas' (megajoule, CA-QC, None)",,133.21574694057236,,68.33339949875482
+"'market for electricity, high voltage' (kilowatt hour, IQ, None)",,69.9482492778945,,43.317391825590285
+"'market for electricity, high voltage' (kilowatt hour, IT, None)",,65.46428632257084,,30.879386939583764
+"'market for electricity, high voltage' (kilowatt hour, US-NPCC, None)",,48.53114440477637,,64.52771154193802
+"'market for steel, low-alloyed' (kilogram, GLO, None)",,15655.527253118255,,5794.591631194287
+"'market group for electricity, medium voltage' (kilowatt hour, CA, None)",-979.1511374371709,979.1511374371709,872.7808001956158,492.1157400877197
+"'market for natural gas, high pressure' (cubic meter, IR, None)",-1.3044708601813908,1.3044708601813908,0.7224543334423413,0.4342677216129603
+"'market for electricity, high voltage' (kilowatt hour, PH, None)",,93.0843397942883,,97.42538325977772
+"'market for electricity, high voltage' (kilowatt hour, IN-Eastern grid, None)",,177.91558657609352,,176.88403481206308
+"'market for electricity, high voltage' (kilowatt hour, IN-Southern grid, None)",,90.21983526218992,,108.78800442288708
+"'market for electricity, high voltage' (kilowatt hour, CN-NCGC, None)",,50.46407234133585,,31.722762273867822
+"'market for electricity, medium voltage' (kilowatt hour, ES, None)",-96.40606433903721,96.40606433903721,93.33449446581004,63.983691565019505
+"'market group for natural gas, high pressure' (cubic meter, Europe without Switzerland, None)",,11.991876677083205,,4.767285262003125
+"'market for electricity, high voltage, aluminium industry' (kilowatt hour, CN, None)",-25.31483565805247,25.31483565805247,30.417608029054396,17.935488431986904
+"'market for electricity, high voltage' (kilowatt hour, US-PR, None)",,563.1685810398121,,527.9844083249599
+"'market for electricity, high voltage' (kilowatt hour, RS, None)",,31.18786640495601,,24.010513020493587
+"'market for electricity, high voltage' (kilowatt hour, BD, None)",,74.90515143772518,,58.68468601988243
+"'market for electricity, medium voltage' (kilowatt hour, US-SERC, None)",-223.03581571029935,223.03581571029935,505.92258870528485,294.0648164784609
+"'market group for electricity, medium voltage' (kilowatt hour, RLA, None)",,1186.6447471028287,,1121.7926023888203
+"'market for aluminium, primary, ingot' (kilogram, IAI Area, EU27 & EFTA, None)",,124.9808661365216,,135.07617508970688
+"'market for electricity, medium voltage' (kilowatt hour, CZ, None)",-32.06476561905438,32.06476561905438,27.009721810021897,15.204073571470554
+"'market for electricity, medium voltage' (kilowatt hour, US-WECC, None)",31.684877579974636,31.684877579974636,31.68586590569535,18.167376318645378
+"'market for pig iron' (kilogram, RoW, None)",,1217.166014647721,,788.2175429464584
+"'market for electricity, medium voltage' (kilowatt hour, DE, None)",-210.57503304943512,210.57503304943512,256.8979799928059,152.49868465216113
+"'market for electricity, medium voltage' (kilowatt hour, FR, None)",-144.37199323266287,144.37199323266287,188.58495609853676,119.65236361743331

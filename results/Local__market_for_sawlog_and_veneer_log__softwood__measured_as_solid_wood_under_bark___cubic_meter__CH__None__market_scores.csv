@@ -1,0 +1,206 @@
+names,mu_star,score,mu_star_local_relative
+"'market for land tenure, arable land, measured as carbon net primary productivity, perennial crop' (kilogram, MY, None)",0.1394533121852728,22.223942712254033,0.6274913231682324
+"'market for diesel' (kilogram, RoW, None)",0.2202569891133681,22.223942712254033,0.9910797195851341
+"'market for concrete, 30MPa' (cubic meter, CH, None)",0.0,22.223942712254033,0.0
+"'market for land tenure, arable land, measured as carbon net primary productivity, perennial crop' (kilogram, ID, None)",3.979039320256561e-13,22.223942712254033,1.7904290754234906e-12
+"'market for polyethylene, high density, granulate' (kilogram, GLO, None)",0.018989832758010472,22.223942712254033,0.085447631880097
+"'market for iron pellet' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, medium voltage' (kilowatt hour, RAS, None)",0.014171976675792841,22.223942712254033,0.06376895791752817
+"'market for synthetic rubber' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for petroleum' (kilogram, RoW, None)",0.058382216841993184,22.223942712254033,0.26269963704415905
+"'market for electricity, high voltage' (kilowatt hour, GB, None)",0.02032148918471588,22.223942712254033,0.09143962188811276
+"'market for electricity, high voltage' (kilowatt hour, VN, None)",0.02030063566537965,22.223942712254033,0.0913457883158874
+"'market group for electricity, medium voltage' (kilowatt hour, RNA, None)",0.0,22.223942712254033,0.0
+"'market for hard coal' (kilogram, RNA, None)",0.0013074281429092949,22.223942712254033,0.005882971171395225
+"'market group for natural gas, high pressure' (cubic meter, Europe without Switzerland, None)",0.0058486246868714176,22.223942712254033,0.026316773592322804
+"'market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",0.10799205500530906,22.223942712254033,0.4859266260876539
+"'market for electricity, high voltage' (kilowatt hour, CH, None)",0.0009839224153402881,22.223942712254033,0.004427308097756049
+"'market for electricity, medium voltage' (kilowatt hour, US-SERC, None)",0.0,22.223942712254033,0.0
+"'market for petroleum' (kilogram, RNA, None)",0.0003112133114075988,22.223942712254033,0.0014003514832496363
+"'market for cottonseed oil, crude' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for aluminium, primary, ingot' (kilogram, RoW, None)",0.006533543048407253,22.223942712254033,0.029398667612676715
+"'market for transport, freight train' (ton kilometer, Europe without Switzerland, None)",0.0,22.223942712254033,0.0
+"'market for bitumen adhesive compound, hot' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, medium voltage' (kilowatt hour, RER, None)",0.0,22.223942712254033,0.0
+"'market for heat, district or industrial, other than natural gas' (megajoule, Europe without Switzerland, None)",0.001952546020255852,22.223942712254033,0.008785776878281998
+"'market for palm fruit bunch' (kilogram, RoW, None)",0.0,22.223942712254033,0.0
+"'market for sawlog and veneer log, softwood, measured as solid wood under bark' (cubic meter, Europe without Switzerland, None)",0.3365722185632496,22.223942712254033,1.5144577311102743
+"'market for waste mineral oil' (kilogram, Europe without Switzerland, None)",0.0,22.223942712254033,0.0
+"'market for transport, freight, lorry, unspecified' (ton kilometer, BR, None)",0.013797355992898552,22.223942712254033,0.06208329535195771
+"'market group for electricity, medium voltage' (kilowatt hour, RME, None)",0.04513128830187174,22.223942712254033,0.20307507486953183
+"'market for pipeline, petroleum' (kilometer, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, low voltage' (kilowatt hour, IN, None)",0.008170812341069755,22.223942712254033,0.03676580905045467
+"'market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",13.507958838116076,22.223942712254033,60.78110897337734
+"'market for hot rolling, steel' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for maintenance, lorry 28 metric ton' (unit, GLO, None)",0.0,22.223942712254033,0.0
+"'market for seed-cotton' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, US-WECC, None)",0.0024780859874669048,22.223942712254033,0.011150523647185771
+"'transport, freight, lorry, all sizes, EURO4 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",10.230469933869971,22.223942712254033,46.03355069048574
+"'market for kerosene' (kilogram, RoW, None)",0.006636174808636319,22.223942712254033,0.029860474779649277
+"'market for land tenure, arable land, measured as carbon net primary productivity, annual crop' (kilogram, BR-MT, None)",0.030345585888075455,22.223942712254033,0.1365445649360104
+"'market for building, hall, steel construction' (square meter, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, KZ, None)",0.004734983799726145,22.223942712254033,0.021305777561761476
+"'market group for heat, district or industrial, other than natural gas' (megajoule, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, medium voltage' (kilowatt hour, CH, None)",0.0,22.223942712254033,0.0
+"'market for pig iron' (kilogram, RoW, None)",0.01511974463478083,22.223942712254033,0.06803358355690853
+"'market for chemical, organic' (kilogram, GLO, None)",0.013082237763882176,22.223942712254033,0.058865512448737445
+"'market for building machine' (unit, GLO, None)",0.0,22.223942712254033,0.0
+"'market for road' (meter-year, GLO, None)",0.0,22.223942712254033,0.0
+"'market for wastewater from vegetable oil refinery' (cubic meter, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, RU, None)",0.007396130279540891,22.223942712254033,0.03328000965131515
+"'market for electricity, medium voltage' (kilowatt hour, US-MRO, None)",0.0,22.223942712254033,0.0
+"'market for heat, central or small-scale, other than natural gas' (megajoule, CH, None)",0.007390802305211608,22.223942712254033,0.033256035622951825
+"'market for soybean' (kilogram, RoW, None)",0.008817259795287136,22.223942712254033,0.03967459739007245
+"'market for petroleum' (kilogram, CH, None)",0.006722249733090102,22.223942712254033,0.030247781953575362
+"'market for petrol, unleaded' (kilogram, BR, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, SA, None)",0.0,22.223942712254033,0.0
+"'aluminium ingot, primary, to aluminium, wrought alloy market' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for petrol, unleaded' (kilogram, ZA, None)",0.0,22.223942712254033,0.0
+"'market for sawlog and veneer log, softwood, measured as solid wood under bark' (cubic meter, CH, None)",0.0,22.223942712254033,0.0
+"'market for hard coal' (kilogram, IN, None)",0.024424346110619055,22.223942712254033,0.10990104873313836
+"'market for electricity, high voltage' (kilowatt hour, US-TRE, None)",0.015426052819729641,22.223942712254033,0.06941186367990361
+"'market for electricity, high voltage' (kilowatt hour, IN-Western grid, None)",0.008832807346955462,22.223942712254033,0.03974455595624422
+"'market for cottonseed oil, refined' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for pitch' (kilogram, RoW, None)",0.0,22.223942712254033,0.0
+"'market for electricity, medium voltage' (kilowatt hour, US-WECC, None)",0.0,22.223942712254033,0.0
+"'market for electricity, medium voltage' (kilowatt hour, DE, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, US-RFC, None)",0.00019379369085292808,22.223942712254033,0.0008720040964921693
+"'market for aluminium, wrought alloy' (kilogram, GLO, None)",0.0009565727080476094,22.223942712254033,0.004304243942818328
+"'market for electricity, high voltage' (kilowatt hour, ES, None)",0.0162786822260772,22.223942712254033,0.0732483989760346
+"'market group for electricity, low voltage' (kilowatt hour, RAS, None)",0.0009043276414182344,22.223942712254033,0.004069159343718063
+"'market for electricity, high voltage' (kilowatt hour, KR, None)",0.011381437429101915,22.223942712254033,0.05121250345388228
+"'market for electricity, high voltage' (kilowatt hour, CN-CSG, None)",0.00013445771399833717,22.223942712254033,0.0006050128716548513
+"'concrete, all types to generic market for concrete, normal strength' (cubic meter, RoW, None)",0.049691762188493804,22.223942712254033,0.2235956186167377
+"'market group for diesel, low-sulfur' (kilogram, RER, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, DE, None)",1.2046573865553967e-05,22.223942712254033,5.42053857028331e-05
+"'market for diesel' (kilogram, IN, None)",0.0,22.223942712254033,0.0
+"'market for ferromanganese, high-coal, 74.5% Mn' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for concrete, 35MPa' (cubic meter, RoW, None)",0.017673933638105765,22.223942712254033,0.07952654426327582
+"'market group for heat, district or industrial, natural gas' (megajoule, RER, None)",0.0,22.223942712254033,0.0
+"'market group for transport, freight, light commercial vehicle' (ton kilometer, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage, aluminium industry' (kilowatt hour, CN, None)",0.0,22.223942712254033,0.0
+"'market for natural gas, high pressure' (cubic meter, RoW, None)",0.002310283839180194,22.223942712254033,0.010395472437509162
+"'transport, freight, lorry, all sizes, EURO4 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",0.05657225652634956,22.223942712254033,0.254555446163728
+"'market for hard coal' (kilogram, CN, None)",0.16828700750297276,22.223942712254033,0.7572329072382876
+"'market for steel, chromium steel 18/8' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for railway track' (meter-year, GLO, None)",0.0,22.223942712254033,0.0
+"'market for heavy fuel oil' (kilogram, RoW, None)",0.01288090408478304,22.223942712254033,0.05795958103186009
+"'market for electricity, high voltage' (kilowatt hour, IN-Eastern grid, None)",0.00024948141202507657,22.223942712254033,0.0011225794417095726
+"'cement, all types to generic market for cement, unspecified' (kilogram, RoW, None)",0.0058347118312314095,22.223942712254033,0.026254170588795728
+"'market for natural gas, high pressure' (cubic meter, RU, None)",0.0,22.223942712254033,0.0
+"'market for steel, low-alloyed, hot rolled' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for n-olefins' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for copper, cathode' (kilogram, GLO, None)",0.0376707157778462,22.223942712254033,0.1695050975679261
+"'market for coke' (megajoule, GLO, None)",0.0,22.223942712254033,0.0
+"'transport, freight, lorry, all sizes, EURO6 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",0.07685716253823838,22.223942712254033,0.34583045651868155
+"'market for land tenure, arable land, measured as carbon net primary productivity, annual crop' (kilogram, AR, None)",0.17289160290325256,22.223942712254033,0.7779519824262419
+"'market for petrol, two-stroke blend' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, medium voltage' (kilowatt hour, GB, None)",0.0,22.223942712254033,0.0
+"'market for electricity, medium voltage' (kilowatt hour, PL, None)",0.0,22.223942712254033,0.0
+"'market for soybean' (kilogram, BR, None)",0.004839209498086916,22.223942712254033,0.021774756895042886
+"'market for road maintenance' (meter-year, RER, None)",0.0,22.223942712254033,0.0
+"'market for ferrochromium, high-carbon, 68% Cr' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, IN-Northern grid, None)",0.012057036518133835,22.223942712254033,0.054252463994544586
+"'market for copper, anode' (kilogram, GLO, None)",0.006674471728761233,22.223942712254033,0.030032797578626785
+"'market for electricity, high voltage' (kilowatt hour, ZA, None)",2.3504726115675112e-05,22.223942712254033,0.00010576307912598636
+"'market for aluminium oxide, metallurgical' (kilogram, RoW, None)",0.009973664597270115,22.223942712254033,0.04487801613964181
+"'market for maintenance, lorry 40 metric ton' (unit, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, ID, None)",0.000582868521694202,22.223942712254033,0.002622705292399871
+"'market for aluminium, cast alloy' (kilogram, GLO, None)",0.0033319942680378745,22.223942712254033,0.014992813431797815
+"'market for diesel, low-sulfur' (kilogram, RoW, None)",0.06594407555523052,22.223942712254033,0.29672536691191925
+"'market for electricity, high voltage' (kilowatt hour, TW, None)",0.010571291319344311,22.223942712254033,0.047567128192404044
+"'market for electronics, for control units' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, medium voltage' (kilowatt hour, US, None)",0.07615549433331648,22.223942712254033,0.3426731940382711
+"'market group for heat, district or industrial, natural gas' (megajoule, GLO, None)",0.0,22.223942712254033,0.0
+"'market for polypropylene, granulate' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for clay brick' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, UA, None)",0.003546774303290867,22.223942712254033,0.015959248767030053
+"'market group for tap water' (kilogram, GLO, None)",0.07802775792220551,22.223942712254033,0.35109772794357447
+"'market for hard coal' (kilogram, Europe, without Russia and Turkey, None)",0.004091122276993708,22.223942712254033,0.018408625012959152
+"'market for electricity, high voltage' (kilowatt hour, PL, None)",0.003693917288087434,22.223942712254033,0.016621340938080483
+"'market for steel, low-alloyed' (kilogram, GLO, None)",0.19085211008953795,22.223942712254033,0.8587680078220514
+"'market for cast iron' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for heavy fuel oil, burned in refinery furnace' (megajoule, GLO, None)",0.0,22.223942712254033,0.0
+"'market for reinforcing steel' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, medium voltage' (kilowatt hour, CN-SGCC, None)",0.43990129261067423,22.223942712254033,1.979402567340662
+"'market for electricity, high voltage' (kilowatt hour, CN-NECG, None)",4.414080103121165e-05,22.223942712254033,0.00019861822720985015
+"'market for soybean oil, crude' (kilogram, GLO, None)",0.9327727591376469,22.223942712254033,4.19715246396548
+"'market for electricity, high voltage' (kilowatt hour, TR, None)",0.0022599531018530072,22.223942712254033,0.010169001653369519
+"'market for extrusion, plastic pipes' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for steel, unalloyed' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for ferronickel' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for diesel' (kilogram, RER, None)",0.0,22.223942712254033,0.0
+"'market for clinker' (kilogram, RoW, None)",0.0,22.223942712254033,0.0
+"'market group for heat, district or industrial, other than natural gas' (megajoule, RER, None)",0.021343784695388557,22.223942712254033,0.09603959554674263
+"'transport, freight, lorry, all sizes, EURO3 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",0.03699351513329052,22.223942712254033,0.1664579305853444
+"'market group for electricity, high voltage' (kilowatt hour, CN-SGCC, None)",0.006758480087068364,22.223942712254033,0.030410805924827252
+"'market for electricity, high voltage' (kilowatt hour, CN-NCGC, None)",0.010021742284089363,22.223942712254033,0.045094348981396026
+"'market for electricity, medium voltage' (kilowatt hour, TW, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, CN-SWG, None)",0.03110265438258164,22.223942712254033,0.139951109419626
+"'market for ammonia, anhydrous, liquid' (kilogram, RoW, None)",0.0,22.223942712254033,0.0
+"'market for petrol, unleaded' (kilogram, RER, None)",0.0,22.223942712254033,0.0
+"'market for biowaste' (kilogram, RoW, None)",0.014435949944032522,22.223942712254033,0.06495674566364276
+"'market for steel, chromium steel 18/8, hot rolled' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, medium voltage' (kilowatt hour, BR, None)",0.008096623924155999,22.223942712254033,0.03643198701952922
+"'market for electricity, high voltage' (kilowatt hour, NL, None)",0.003729601241312608,22.223942712254033,0.016781906296294346
+"'market for electricity, high voltage' (kilowatt hour, IR, None)",0.03463657150249588,22.223942712254033,0.1558525053405473
+"'market for heat, district or industrial, other than natural gas' (megajoule, RoW, None)",0.006688244308449498,22.223942712254033,0.03009476938923927
+"'market for electricity, high voltage' (kilowatt hour, US-SERC, None)",5.9936954838413214e-05,22.223942712254033,0.0002696954164004601
+"'market for transport, freight train' (ton kilometer, RoW, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, IN-Southern grid, None)",0.0018980828530290594,22.223942712254033,0.008540711599218072
+"'market for palm oil, crude' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for excavation, skid-steer loader' (cubic meter, GLO, None)",0.0,22.223942712254033,0.0
+"'market for oxygen, liquid' (kilogram, RoW, None)",0.0,22.223942712254033,0.0
+"'market for heat, district or industrial, natural gas' (megajoule, Europe without Switzerland, None)",0.0002673018493704049,22.223942712254033,0.0012027652016175225
+"'market for petrol, unleaded' (kilogram, RoW, None)",0.4593376455741396,22.223942712254033,2.0668593845900527
+"'market group for electricity, medium voltage' (kilowatt hour, IN, None)",0.07741184771152909,22.223942712254033,0.34832634656156247
+"'market group for transport, freight train' (ton kilometer, GLO, None)",0.01135239748017014,22.223942712254033,0.05108183380040192
+"'market for iron ore concentrate' (kilogram, GLO, None)",0.006812188582753009,22.223942712254033,0.03065247544485815
+"'market for electricity, high voltage' (kilowatt hour, IT, None)",0.02344957530292824,22.223942712254033,0.10551491968163869
+"'market for building, multi-storey' (cubic meter, GLO, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, CN-CCG, None)",0.028908079097747397,22.223942712254033,0.13007628516702308
+"'market group for electricity, medium voltage' (kilowatt hour, CN, None)",0.0,22.223942712254033,0.0
+"'transport, freight, lorry, all sizes, EURO5 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",0.484118628206617,22.223942712254033,2.1783651734292824
+"'market for heat, district or industrial, natural gas' (megajoule, RoW, None)",0.02098692045836348,22.223942712254033,0.09443383080173046
+"'market for vegetable oil, refined' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, medium voltage' (kilowatt hour, GLO, None)",0.02108356877313078,22.223942712254033,0.09486871454859148
+"'transport, freight, lorry, all sizes, EURO5 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RoW, None)",0.02180150347940657,22.223942712254033,0.09809917061829657
+"'market group for electricity, medium voltage' (kilowatt hour, RLA, None)",0.02843724297884087,22.223942712254033,0.1279576866581864
+"'market for electricity, medium voltage' (kilowatt hour, IT, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, AU, None)",0.003454687665471745,22.223942712254033,0.015544890977274115
+"'market for soybean seed, for sowing' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for diesel' (kilogram, GLO, None)",0.18622017836640925,22.223942712254033,0.8379259287044937
+"'aluminium ingot, primary, to aluminium, cast alloy market' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'market for transport, freight train' (ton kilometer, CN, None)",0.0,22.223942712254033,0.0
+"'market for electricity, medium voltage' (kilowatt hour, ES, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, MX, None)",0.0027400754532482807,22.223942712254033,0.01232938497333974
+"'market for hydraulic digger' (unit, GLO, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, low voltage' (kilowatt hour, Europe without Switzerland, None)",1.3339234409492917e-05,22.223942712254033,6.00219078234836e-05
+"'market group for electricity, medium voltage' (kilowatt hour, RAF, None)",0.0029281629398392184,22.223942712254033,0.013175713138536225
+"'market for electricity, high voltage' (kilowatt hour, CN-NWG, None)",0.0005920745031025021,22.223942712254033,0.0026641290016286754
+"'market for heat, central or small-scale, other than natural gas' (megajoule, RoW, None)",0.0002425572526130182,22.223942712254033,0.0010914231365403712
+"'market group for electricity, low voltage' (kilowatt hour, CN-SGCC, None)",0.007708448357917064,22.223942712254033,0.0346853322010532
+"'market for electricity, medium voltage' (kilowatt hour, US-RFC, None)",0.0,22.223942712254033,0.0
+"'market for gold' (kilogram, GLO, None)",0.00012072503887683439,22.223942712254033,0.0005432206176911532
+"'market for chemical factory, organics' (unit, GLO, None)",0.0,22.223942712254033,0.0
+"'market for petroleum' (kilogram, Europe without Switzerland, None)",0.21952933450347878,22.223942712254033,0.9878055273353129
+"'market for electricity, high voltage' (kilowatt hour, JP, None)",0.0008607045458441931,22.223942712254033,0.003872870610711259
+"'market for concrete, 20MPa' (cubic meter, RoW, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, high voltage' (kilowatt hour, GLO, None)",0.024486635672126056,22.223942712254033,0.11018133005996456
+"'market for electricity, medium voltage' (kilowatt hour, JP, None)",0.0,22.223942712254033,0.0
+"'market for concrete, 25MPa' (cubic meter, RoW, None)",0.0047026760379687005,22.223942712254033,0.02116040388898095
+"'market group for electricity, low voltage' (kilowatt hour, CN, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, CN-ECGC, None)",0.0004287010853083473,22.223942712254033,0.001929005536321718
+"'market for petrol, unleaded' (kilogram, IN, None)",0.0,22.223942712254033,0.0
+"'market group for electricity, high voltage' (kilowatt hour, CN, None)",0.0,22.223942712254033,0.0
+"'market for diesel, low-sulfur' (kilogram, CH, None)",0.0,22.223942712254033,0.0
+"'market for electricity, high voltage' (kilowatt hour, US-MRO, None)",0.014176838305762551,22.223942712254033,0.06379083355873484
+"'market for natural gas, high pressure' (cubic meter, US, None)",0.0443076646515328,22.223942712254033,0.19936905537063884
+"'market group for electricity, high voltage' (kilowatt hour, RAS, None)",0.00016291100856768992,22.223942712254033,0.0007330427848784123
+"'market group for electricity, medium voltage' (kilowatt hour, Europe without Switzerland, None)",0.016236577258715634,22.223942712254033,0.07305894129111018
+"'market group for transport, freight, lorry, unspecified' (ton kilometer, GLO, None)",0.055343442408196,22.223942712254033,0.2490262107167881
+"'market for soybean oil, refined' (kilogram, GLO, None)",0.0,22.223942712254033,0.0
+"'transport, freight, lorry, all sizes, EURO3 to generic market for transport, freight, lorry, unspecified' (ton kilometer, RER, None)",6.540947332410899,22.223942712254033,29.43198431124597
+"'market for tap water' (kilogram, RoW, None)",0.00208613121994361,22.223942712254033,0.009386863739499025
+"'market for electricity, high voltage' (kilowatt hour, IQ, None)",0.037866431170980874,22.223942712254033,0.17038574865521836
+"'market for sodium chloride, powder' (kilogram, GLO, None)",0.002847253289955276,22.223942712254033,0.012811647900736049
